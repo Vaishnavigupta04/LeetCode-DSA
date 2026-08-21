@@ -12,6 +12,7 @@
 | [0009-palindrome-number](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0050-powx-n) |
 | [0172-factorial-trailing-zeroes](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0172-factorial-trailing-zeroes) |
+| [0223-rectangle-area](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0263-ugly-number) |
 | [0319-bulb-switcher](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0319-bulb-switcher) |
@@ -41,4 +42,8 @@
 |  |
 | ------- |
 | [1518-water-bottles](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/1518-water-bottles) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
