@@ -4,6 +4,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0231-power-of-two) |
 | [1009-complement-of-base-10-integer](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/1009-complement-of-base-10-integer) |
 ## Math
@@ -50,4 +51,8 @@
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0223-rectangle-area) |
+## Array
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
