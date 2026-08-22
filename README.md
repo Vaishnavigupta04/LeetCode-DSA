@@ -22,6 +22,7 @@
 | [2652-sum-multiples](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/2652-sum-multiples) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3765-complete-prime-number](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/3765-complete-prime-number) |
 ## Recursion
 |  |
 | ------- |
@@ -31,6 +32,7 @@
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3765-complete-prime-number](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/3765-complete-prime-number) |
 ## Brainteaser
 |  |
 | ------- |
@@ -39,6 +41,7 @@
 |  |
 | ------- |
 | [2443-sum-of-number-and-its-reverse](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/2443-sum-of-number-and-its-reverse) |
+| [3765-complete-prime-number](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/3765-complete-prime-number) |
 ## Simulation
 |  |
 | ------- |
