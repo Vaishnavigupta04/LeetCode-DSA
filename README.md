@@ -19,6 +19,7 @@
 | [0319-bulb-switcher](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0319-bulb-switcher) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1518-water-bottles](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/1518-water-bottles) |
+| [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/2443-sum-of-number-and-its-reverse) |
 | [2652-sum-multiples](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/2652-sum-multiples) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -55,4 +56,8 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0136-single-number) |
+## Binary Search
+|  |
+| ------- |
+| [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
 <!---LeetCode Topics End-->
