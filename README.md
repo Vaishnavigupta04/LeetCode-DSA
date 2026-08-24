@@ -6,6 +6,7 @@
 | ------- |
 | [0136-single-number](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0268-missing-number) |
 | [1009-complement-of-base-10-integer](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/1009-complement-of-base-10-integer) |
 ## Math
 |  |
@@ -16,6 +17,7 @@
 | [0223-rectangle-area](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0319-bulb-switcher) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1518-water-bottles](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/1518-water-bottles) |
@@ -56,8 +58,18 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0268-missing-number) |
 | [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
