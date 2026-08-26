@@ -14,6 +14,7 @@
 | [0009-palindrome-number](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0050-powx-n) |
 | [0172-factorial-trailing-zeroes](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0189-rotate-array) |
 | [0223-rectangle-area](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0263-ugly-number) |
@@ -58,6 +59,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0268-missing-number) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Binary Search
@@ -74,4 +76,8 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0268-missing-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
