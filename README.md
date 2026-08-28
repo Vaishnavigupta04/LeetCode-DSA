@@ -64,6 +64,7 @@
 | [0217-contains-duplicate](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0287-find-the-duplicate-number) |
+| [0485-max-consecutive-ones](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0485-max-consecutive-ones) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Binary Search
 |  |
