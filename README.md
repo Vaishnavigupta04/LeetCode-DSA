@@ -59,6 +59,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0011-container-with-most-water) |
 | [0136-single-number](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0217-contains-duplicate) |
@@ -86,6 +87,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0011-container-with-most-water) |
 | [0189-rotate-array](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
@@ -96,4 +98,8 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0287-find-the-duplicate-number) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
