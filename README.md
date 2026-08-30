@@ -66,6 +66,7 @@
 | [0268-missing-number](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0485-max-consecutive-ones) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Binary Search
 |  |
@@ -102,4 +103,5 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0011-container-with-most-water) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 <!---LeetCode Topics End-->
