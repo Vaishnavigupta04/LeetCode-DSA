@@ -65,6 +65,7 @@
 | [0217-contains-duplicate](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0287-find-the-duplicate-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0485-max-consecutive-ones) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -73,24 +74,28 @@
 | ------- |
 | [0268-missing-number](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0287-find-the-duplicate-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
 ## Hash Table
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0011-container-with-most-water) |
 | [0189-rotate-array](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0287-find-the-duplicate-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Pigeonhole Principle
 |  |
 | ------- |
