@@ -26,6 +26,7 @@
 | [1518-water-bottles](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/1518-water-bottles) |
 | [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/2443-sum-of-number-and-its-reverse) |
+| [2485-find-the-pivot-integer](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/2485-find-the-pivot-integer) |
 | [2652-sum-multiples](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/2652-sum-multiples) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -149,6 +150,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [2485-find-the-pivot-integer](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/2485-find-the-pivot-integer) |
 | [3903-smallest-stable-index-i](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Ternary Search
