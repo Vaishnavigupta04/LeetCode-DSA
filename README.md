@@ -68,6 +68,7 @@
 | [0011-container-with-most-water](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0217-contains-duplicate) |
@@ -137,6 +138,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0877-stone-game](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0877-stone-game) |
 ## Minimax
 |  |
