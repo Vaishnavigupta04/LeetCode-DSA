@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0050-powx-n) |
 | [0172-factorial-trailing-zeroes](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0189-rotate-array) |
@@ -69,6 +70,7 @@
 | [0011-container-with-most-water](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0048-rotate-image](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0048-rotate-image) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0189-rotate-array) |
@@ -163,4 +165,8 @@
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
