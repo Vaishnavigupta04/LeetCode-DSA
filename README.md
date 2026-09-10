@@ -83,6 +83,7 @@
 | [0485-max-consecutive-ones](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0485-max-consecutive-ones) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0877-stone-game) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/3875-construct-uniform-parity-array-i) |
