@@ -71,6 +71,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0189-rotate-array) |
@@ -142,6 +143,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0877-stone-game](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0877-stone-game) |
 ## Minimax
@@ -170,4 +172,8 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0048-rotate-image) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
