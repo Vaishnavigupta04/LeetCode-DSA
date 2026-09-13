@@ -69,6 +69,7 @@
 | [0001-two-sum](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0053-maximum-subarray) |
@@ -126,6 +127,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0283-move-zeroes) |
