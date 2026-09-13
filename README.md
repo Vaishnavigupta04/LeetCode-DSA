@@ -85,6 +85,7 @@
 | [0485-max-consecutive-ones](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0485-max-consecutive-ones) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0877-stone-game) |
+| [0905-sort-array-by-parity](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0905-sort-array-by-parity) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -119,6 +120,7 @@
 | [0268-missing-number](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0905-sort-array-by-parity](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0905-sort-array-by-parity) |
 ## Two Pointers
 |  |
 | ------- |
@@ -130,6 +132,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0905-sort-array-by-parity](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0905-sort-array-by-parity) |
 ## Pigeonhole Principle
 |  |
 | ------- |
