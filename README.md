@@ -24,6 +24,7 @@
 | [0319-bulb-switcher](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0319-bulb-switcher) |
 | [0877-stone-game](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1518-water-bottles](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/1518-water-bottles) |
 | [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/2443-sum-of-number-and-its-reverse) |
@@ -65,6 +66,7 @@
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0223-rectangle-area) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Array
 |  |
 | ------- |
