@@ -94,6 +94,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0877-stone-game) |
@@ -127,6 +128,7 @@
 | [0268-missing-number](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sorting
 |  |
@@ -189,6 +191,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0724-find-pivot-index) |
 | [2485-find-the-pivot-integer](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/2485-find-the-pivot-integer) |
 | [3903-smallest-stable-index-i](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/3903-smallest-stable-index-i) |
