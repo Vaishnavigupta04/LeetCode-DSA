@@ -30,6 +30,7 @@
 | [2443-sum-of-number-and-its-reverse](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/2443-sum-of-number-and-its-reverse) |
 | [2485-find-the-pivot-integer](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/2485-find-the-pivot-integer) |
 | [2652-sum-multiples](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/2652-sum-multiples) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3765-complete-prime-number](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/3765-complete-prime-number) |
@@ -102,6 +103,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/3876-construct-uniform-parity-array-ii) |
