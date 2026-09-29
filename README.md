@@ -22,6 +22,7 @@
 | [0263-ugly-number](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0319-bulb-switcher) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -100,6 +101,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0877-stone-game) |
@@ -149,6 +151,7 @@
 | [0268-missing-number](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0905-sort-array-by-parity) |
 ## Two Pointers
 |  |
