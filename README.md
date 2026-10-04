@@ -170,6 +170,7 @@
 | [0031-next-permutation](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0088-merge-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0283-move-zeroes) |
@@ -256,6 +257,7 @@
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0796-rotate-string) |
 ## String Matching
