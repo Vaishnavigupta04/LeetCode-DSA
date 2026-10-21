@@ -63,6 +63,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0054-spiral-matrix) |
 | [1518-water-bottles](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/1518-water-bottles) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Geometry
 |  |
@@ -264,8 +265,13 @@
 | [0242-valid-anagram](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0344-reverse-string) |
 | [0796-rotate-string](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0796-rotate-string) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## String Matching
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0796-rotate-string) |
+## Stack
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
