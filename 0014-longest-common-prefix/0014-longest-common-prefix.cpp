@@ -4,11 +4,9 @@ public:
         if (strs.empty())
             return "";
 
-        int len = strs.size();
-        int l = strs[0].size();
-        for (int i = 0; i < l; i++) {
-            for (string s : strs) {
-                if (i >= s.size() || s[i] != strs[0][i])
+        for (int i = 0; i < strs[0].size(); i++) {
+            for (int j = 1; j < strs.size(); j++) {
+                if (i >= strs[j].size() || strs[j][i] != strs[0][i])
                     return strs[0].substr(0, i);
             }
         }
