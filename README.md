@@ -27,6 +27,7 @@
 | [1344-angle-between-hands-of-a-clock](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1518-water-bottles](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/1518-water-bottles) |
+| [1903-largest-odd-number-in-string](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/2443-sum-of-number-and-its-reverse) |
 | [2485-find-the-pivot-integer](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/2485-find-the-pivot-integer) |
@@ -196,6 +197,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0011-container-with-most-water) |
+| [1903-largest-odd-number-in-string](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Dynamic Programming
 |  |
@@ -269,6 +271,7 @@
 | [0242-valid-anagram](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0344-reverse-string) |
 | [0796-rotate-string](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0796-rotate-string) |
+| [1903-largest-odd-number-in-string](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## String Matching
 |  |
