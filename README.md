@@ -114,6 +114,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -145,6 +146,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0560-subarray-sum-equals-k) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sorting
 |  |
@@ -256,6 +258,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0229-majority-element-ii) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
