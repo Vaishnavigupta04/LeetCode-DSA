@@ -272,6 +272,7 @@
 | [0344-reverse-string](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0344-reverse-string) |
 | [0796-rotate-string](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## String Matching
@@ -282,6 +283,7 @@
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Trie
 |  |
@@ -291,4 +293,5 @@
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
