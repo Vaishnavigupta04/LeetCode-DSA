@@ -271,6 +271,7 @@
 | [0242-valid-anagram](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0344-reverse-string) |
 | [0796-rotate-string](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0796-rotate-string) |
+| [1021-remove-outermost-parentheses](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## String Matching
@@ -280,9 +281,14 @@
 ## Stack
 |  |
 | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0014-longest-common-prefix) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
