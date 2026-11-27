@@ -120,6 +120,7 @@
 | [0875-koko-eating-bananas](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0905-sort-array-by-parity) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -148,6 +149,7 @@
 | [0704-binary-search](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
 ## Hash Table
 |  |
