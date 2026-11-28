@@ -30,6 +30,7 @@
 | [1518-water-bottles](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/1518-water-bottles) |
 | [1903-largest-odd-number-in-string](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
+| [2235-add-two-integers](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/2235-add-two-integers) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/2443-sum-of-number-and-its-reverse) |
 | [2485-find-the-pivot-integer](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/2485-find-the-pivot-integer) |
 | [2652-sum-multiples](https://github.com/Vaishnavigupta04/LeetCode-DSA/tree/master/2652-sum-multiples) |
